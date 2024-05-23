@@ -1,1 +1,3 @@
 # Assignment-Subumission
+Assignment submission management system is a desktop application that enable student to submit their assignment online without submitting any physical file. Before the submission students need to  submit their assignment to the system and teachers able to view the assignments online. This project provide text sharing for student and teachers.
+The proposed system helps reducing decreases the complexity of managing assignments for students by  providing them details of the assignments with all queries of the students. Moreover, the proposed system allows the teachers to retrieve text Assignment.
